@@ -1,6 +1,6 @@
 # Hello, I'm Claudia! 👋
 
-I'm a Rank 3 student at 42 Lisbon, and this is the very beginning of my path as software engineer.
+I'm a Rank 4 student at 42 Lisbon, and this is the very beginning of my path as software engineer.
 
 ## 🚀 Skills and Technologies
 - Programming: C, Python, Shell
